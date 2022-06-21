@@ -1,6 +1,7 @@
 # Exercicios-repeticao-python
 Lista com conteudos da linguagem de programação python para auxiliar no estudo de programação e para auxiliar na resolução de problemas relacionados a programação utilizando python.
-Exercícios sobre Repetição
+
+## Exercicios sobre Repeticao
 1. Escreva um programa que imprime na tela os n primeiros números
 perfeitos. Um número perfeito é aquele que é igual à soma dos seus
 divisores. Por exemplo, 6 = 1 + 2 + 3.
@@ -28,10 +29,10 @@ de dados
 
 6. Foi realizada uma pesquisa em Niterói, com um número desconhecido de
 pessoas. De cada entrevistado foram colhidos os seguintes dados:
-1. Qual o seu clube de futebol de preferência (1 – Flamengo, 2 –
+• Qual o seu clube de futebol de preferência (1 – Flamengo, 2 –
 Vasco, 3 – Fluminense, 4 – Botafogo, 5 – Outros)
-2. Qual o seu salário
-3. Qual a sua cidade natal (1 – Niterói, 2 – Outra)
+• Qual o seu salário
+• Qual a sua cidade natal (1 – Niterói, 2 – Outra)
 Escreva um programa que informe:
 • Número de torcedores por clube
 • Média salarial dos torcedores de cada time
@@ -41,7 +42,7 @@ nenhum dos principais clubes do Rio
 
 7. Faça um programa em Python que calcule o valor de Pi, utilizando a
 fórmula de Leibniz
-π/4 = 1 – 1/3 + 1/5 – 1/7 + 1/9 – 1/11 + 1/13 - ...
+π/4 = 1 –1/3 + 1/5 –1/7 + 1/9 –1/11 + 1/13 - ...
 Adicione parcelas no cálculo até que a diferença de uma interação para a
 seguinte seja menor do que um valor de erro aceitável x informado pelo
 usuário.
@@ -66,11 +67,11 @@ método da soma de ímpares.
 11. Faça um programa que simula uma calculadora que aceita as seguintes
 operações: soma, subtração, divisão e multiplicação. O programa inicia
 pedindo para o usuário escolher uma opção do menu
-1. Somar
-2. Subtrair
-3. Dividir
-4. Multiplicar
-5. Sair
+• Somar
+• Subtrair
+• Dividir
+• Multiplicar
+• Sair
 Ao escolher a opção, o programa solicita os dois números a serem
 operados (exceto se a opção escolhida for a 5), efetua a operação, mostra
 o resultado na tela e volta para o menu para que o usuário escolha outra
